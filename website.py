@@ -1,5 +1,5 @@
 import streamlit as st
-import yfinance as yf
+# import yfinance as yf
 
 st.title("My First Web Application")
 
